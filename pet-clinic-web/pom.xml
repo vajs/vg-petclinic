@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.guruspringframework</groupId>
     <artifactId>pet-clinic-web</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>pet-clinic-web</name>
     <description>Demo project for Spring Boot</description>
 
@@ -21,7 +21,7 @@
         <dependency>
             <groupId>com.springframework</groupId>
             <artifactId>pet-clinic-data</artifactId>
-            <version>0.0.1</version>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -64,8 +64,4 @@
         </plugins>
     </build>
 
-
-  <scm>
-    <tag>vg-petclinic-0.0.1</tag>
-  </scm>
 </project>

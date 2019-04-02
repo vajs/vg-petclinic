@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.springframework</groupId>
     <artifactId>vg-petclinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>vg-petclinic</name>
     <description>Demo project for Spring Boot</description>
 
@@ -47,6 +47,6 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:vajs/vg-petclinic.git</developerConnection>
-        <tag>vg-petclinic-0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 </project>
