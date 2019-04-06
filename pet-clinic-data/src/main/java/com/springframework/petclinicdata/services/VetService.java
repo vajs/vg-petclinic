@@ -1,4 +1,4 @@
-package services;
+package com.springframework.petclinicdata.services;
 
 import com.springframework.petclinicdata.model.Vet;
 
